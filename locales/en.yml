@@ -15,9 +15,13 @@ pages:
     description: this is a blank page
     just_blank_page_with_title: just blank page with title
   post:
-    nav: post
-    title: post
+    nav: Tours
+    title: Tours
     description: this is a post page
+  Tours:
+    nav: tours
+    title: post
+    description: this is a post page    
   test:
     nav: test
     title: testing
