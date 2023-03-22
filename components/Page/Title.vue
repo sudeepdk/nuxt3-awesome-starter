@@ -9,6 +9,7 @@ defineProps({
 
 <template>
   <div class="text-4xl font-bold">
-    <slot>Upcoming Tours</slot>
+    <!-- <slot>Upcoming Tours</slot> -->
+    <slot>{{ text }}</slot>
   </div>
 </template>
