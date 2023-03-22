@@ -1,11 +1,11 @@
 ---
 title: 'Amarnath Yatra 2023 with Vaishnovdevi and Kashmir'
-description: '24th June 2023 Saturday to 03rd July, 2023 Monday – (9 Nights/10 Days)'
-date: '2023-06-06'
+description: '06th July 2023 Thursday to 13th July 2023 Thursday – (7 Nights/8 Days)'
+date: '2023-07-06'
 author: 'Kashtabhanjan Holidays'
 ---
 
-### 06.06.2023
+### 06.07.2023
 Departure from Mumbai to Katra by Train No. 12471 from Borivali at 11.26 am by 3AC. Full day in Train. Lunch and Dinner will be provided in Train.
 
 

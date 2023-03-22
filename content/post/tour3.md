@@ -1,7 +1,7 @@
 ---
 title: 'Amarnath Yatra 2023 with Vaishnovdevi, Kashmir and Leh Ladakh'
 description: '06th July 2023 Thursday to 18th July 2023 Tuesday – (12 Nights/13 Days)'
-date: '2023-06-06'
+date: '2023-07-06'
 author: 'Kashtabhanjan Holidays'
 ---
 
